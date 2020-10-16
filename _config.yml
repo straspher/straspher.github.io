@@ -1,9 +1,9 @@
 # Site settings
-title: Breeze  #你博客的标题
-SEOTitle: Breeze #显示在浏览器上搜索的时候显示的标题
-header-img: img/post-bg-desk.jpg #显示在首页的背景图片
+title: 记事本  #你博客的标题
+SEOTitle: Breeze  #显示在浏览器上搜索的时候显示的标题
+header-img: img/post-bg-desk.jpg  #显示在首页的背景图片
 email: straspher@gmail.com
-description: "null" #网站介绍
+description: "null"  #网站介绍
 keyword: "" #关键词
 url: "http://straspher.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,8 +11,8 @@ github_repo: "https://github.com/straspher/straspher.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "不务正业的律师"
+sidebar-avatar: http://img.2222.moe/images/2017/10/18/Breeze-.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: straspher
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  repo: straspher.github.io    #仓库名称
+  owner: straspher    #github用户名
+  admin: straspher
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
