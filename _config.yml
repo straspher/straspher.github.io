@@ -18,12 +18,12 @@ sidebar-avatar: http://img.2222.moe/images/2017/10/18/Breeze-.jpg      # use abs
 
 # SNS settings
 RSS: false
-weibo_username:     null
-zhihu_username:     null
-github_username:    null
-facebook_username:  null
-jianshu_username:   null
-twitter_username:   null
+#weibo_username:     null
+#zhihu_username:     null
+github_username:    straspher
+#facebook_username:  null
+#jianshu_username:   null
+twitter_username:   Minei2000
 
 
 
