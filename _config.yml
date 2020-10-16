@@ -3,10 +3,10 @@ title: 记事本
 SEOTitle: Breeze
 header-img: img/post-bg-desk.jpg
 email: straspher@gmail.com
-description: "null"
+description: "empty"
 keyword: "法律,法学"
 url: "https://straspher.github.io/"          # your host, for absolute URL
-baseurl: "都在笑谈中"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/straspher/straspher.github.io.git" # you code repository
 
 # Sidebar settings
